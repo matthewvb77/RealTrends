@@ -1,5 +1,8 @@
 import React from "react";
 import { View, Text, StyleSheet, TextInput, Button } from "react-native";
+import { useTailwind } from "tailwind-rn";
+
+const tw = useTailwind();
 
 const ContactUsScreen = () => {
 	// Use React hooks to set up state variables for the form inputs
