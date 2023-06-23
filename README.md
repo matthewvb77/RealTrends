@@ -1,8 +1,6 @@
 # RealTrends
 
-### Description: React Native app with 3 screens
+### Description:
+> React Native app to display real estate trends and analysis maps across North America
 
-1. About Us
-2. Contact Us
-3. Main: Screen showing map of North America and shows heat map of median real estate investment ROI by state/province.
-   Median ROI Will be calculated with Median rent and median house prices (using TDB as data sources)
+Development has been paused for an indefinite period.
